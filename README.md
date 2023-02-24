@@ -5,4 +5,10 @@ Functions such as:
 - sort (according to Priority Value)
 - search (by ID)
 - serving
-- EditPriority
+- editPriority
+- delete
+- save
+- insert
+- menu
+
+
